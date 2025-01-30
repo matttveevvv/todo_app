@@ -1,3 +1,4 @@
 Play soccer
+Play chess
 Play hockey
-Play hockey with the ball
+Play domino
